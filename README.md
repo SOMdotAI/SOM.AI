@@ -1,6 +1,6 @@
 # SOM.AI — Autonomous Intelligence Flywheel
 <p align="center">
-  <img src="assets/somai.png" alt="SOM.AI" width="980" />
+  <img src="somai.png" alt="SOM.AI" width="980" />
 </p>
 
 <p align="center">
