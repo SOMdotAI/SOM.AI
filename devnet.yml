@@ -1,0 +1,12 @@
+policy:
+  volume_1h_min: 100000
+  volatility_max: 0.08
+  buyback_pct_of_treasury: 0.02
+  buyback_min: 50
+  buyback_max: 5000
+  slippage_bps: 200
+
+simulator:
+  volume_1h: 250000
+  volatility: 0.04
+  treasury: 250000
